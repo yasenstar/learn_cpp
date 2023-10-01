@@ -13,3 +13,4 @@
 ## 学习视频列表
 
 - [001 - 开篇与环境、工具准备](https://youtu.be/KTOLpgN_mJk)
+- [002 - 例1.1 Teapot](https://youtu.be/VVJxJoDRyx4)
