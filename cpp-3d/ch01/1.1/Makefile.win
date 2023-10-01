@@ -1,0 +1,28 @@
+# Project: Draw3D
+# Makefile created by Dev-C++ Version 6.9.4  3D 
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = main.o
+LINKOBJ  = main.o
+LIBS     = -L"D:/DevCPP/MinGW32/lib" -L"D:/DevCPP/MinGW32/i686-w64-mingw32/lib" -static-libstdc++ -static-libgcc -D_STDCALL_SUPPORTED -D_M_IX86 glut32.lib -lopengl32 -lglu32 libdll/libwindll.a libdll/libpthreadGC2.a -g3
+INCS     = -I"D:/DevCPP/MinGW32/include" -I"D:/DevCPP/MinGW32/i686-w64-mingw32/include" -I"D:/DevCPP/MinGW32/lib/gcc/i686-w64-mingw32/4.8.4/include" -I"libdll"
+CXXINCS  = -I"D:/DevCPP/MinGW32/include" -I"D:/DevCPP/MinGW32/i686-w64-mingw32/include" -I"D:/DevCPP/MinGW32/lib/gcc/i686-w64-mingw32/4.8.4/include" -I"libdll"
+BIN      = ÈýÎ¬»æÍ¼³ÌÐò.exe
+CXXFLAGS = $(CXXINCS) -g3 -std=c++11
+CFLAGS   = $(INCS) -g3 -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)

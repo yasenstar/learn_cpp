@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cpp_new",
+    "\\cpp-3d",
+    "\\cpp-3d\\ch01",
+    "\\cpp-3d\\ch01\\1.1",
     "\\cpp_new\\ch01",
-    "\\cpp_new\\ch01\\HelloSFML",
     "\\cpp_new\\ch01\\test",
     "\\cpp_new\\ch02",
     "\\cpp_new\\ch02\\2.1",
     "\\cpp_new\\ch02\\2.1\\MySolution",
     "\\cpp_new\\ch02\\2.1\\MySolution\\MyProject"
   ],
-  "SelectedNode": "\\cpp_new\\ch02\\2.1\\MySolution\\MyProject\\MyProject.cpp",
+  "SelectedNode": "\\cpp-3d\\ch01\\1.1\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
