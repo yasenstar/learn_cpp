@@ -1,2 +1,5 @@
 ﻿  MyProject.cpp
-  MyProject.vcxproj -> D:\GitHub\learn_cpp\cpp_new\ch02\MySolution\x64\Debug\MyProject.exe
+D:\GitHub\learn_cpp\cpp_new\ch02\2.1\MySolution\MyProject\MyProject.cpp(10,12): warning C4566: character represented by universal-character-name '\u5F88' cannot be represented in the current code page (1252)
+D:\GitHub\learn_cpp\cpp_new\ch02\2.1\MySolution\MyProject\MyProject.cpp(10,12): warning C4566: character represented by universal-character-name '\u9AD8' cannot be represented in the current code page (1252)
+D:\GitHub\learn_cpp\cpp_new\ch02\2.1\MySolution\MyProject\MyProject.cpp(10,12): warning C4566: character represented by universal-character-name '\u5174' cannot be represented in the current code page (1252)
+  MyProject.vcxproj -> D:\GitHub\learn_cpp\cpp_new\ch02\2.1\MySolution\x64\Debug\MyProject.exe
