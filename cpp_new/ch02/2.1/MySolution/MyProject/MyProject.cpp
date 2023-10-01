@@ -7,6 +7,8 @@ int main()
 {
     //std::cout << "Hello World, Yasen!\n";
 
+    std::cout << "很高兴 很好 It's pleasure\n";
+
     printf("很高兴 It's pleasure to learn C++ with you together!");
 }
 
