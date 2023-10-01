@@ -1,2 +1,4 @@
 ﻿  HelloSFML.cpp
-  HelloSFML.vcxproj -> C:\Users\v0cn037\source\repos\learn_cpp\HelloSFML\Debug\HelloSFML.exe
+D:\GitHub\learn_cpp\cpp_new\ch01\HelloSFML\HelloSFML.cpp(8,18): warning C4566: 由通用字符名称“\u4E16”表示的字符不能在当前代码页(1252)中表示出来
+D:\GitHub\learn_cpp\cpp_new\ch01\HelloSFML\HelloSFML.cpp(8,18): warning C4566: 由通用字符名称“\u754C”表示的字符不能在当前代码页(1252)中表示出来
+  HelloSFML.vcxproj -> D:\GitHub\learn_cpp\cpp_new\ch01\HelloSFML\Debug\HelloSFML.exe

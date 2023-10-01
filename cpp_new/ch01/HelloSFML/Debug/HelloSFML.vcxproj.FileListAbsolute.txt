@@ -1,1 +1,2 @@
 C:\Users\v0cn037\source\repos\learn_cpp\HelloSFML\Debug\HelloSFML.exe
+D:\GitHub\learn_cpp\cpp_new\ch01\HelloSFML\Debug\HelloSFML.exe

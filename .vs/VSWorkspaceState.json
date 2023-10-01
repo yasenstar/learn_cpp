@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cpp_new"
+    "\\cpp_new",
+    "\\cpp_new\\ch01",
+    "\\cpp_new\\ch01\\HelloSFML",
+    "\\cpp_new\\ch01\\test"
   ],
-  "SelectedNode": "\\cpp_new\\cpp_new.mm",
+  "SelectedNode": "\\cpp_new\\ch01\\HelloSFML\\HelloSFML.sln",
   "PreviewInSolutionExplorer": false
 }
