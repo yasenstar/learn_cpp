@@ -2,8 +2,8 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Learn C++" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1696097960357" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_gruvbox_template.mm"/>
+<hook NAME="MapStyle" background="#fbf1c7" zoom="0.89796275">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -78,7 +78,7 @@
 </hook>
 <node TEXT="C" POSITION="bottom_or_right" ID="ID_927283953" CREATED="1696099910757" MODIFIED="1696099916662">
 <node TEXT="2. 数据类型、运算符和表达式" POSITION="bottom_or_right" ID="ID_1269894434" CREATED="1696104409292" MODIFIED="1696104417623">
-<node TEXT="2.1 常量、变量、整型、实型和字符型&#xa;(video 002)" POSITION="bottom_or_right" ID="ID_40937223" CREATED="1696099950317" MODIFIED="1696104737168">
+<node TEXT="2.1 常量、变量、整型、实型和字符型&#xa;(video 002)" FOLDED="true" POSITION="bottom_or_right" ID="ID_40937223" CREATED="1696099950317" MODIFIED="1696104737168">
 <node TEXT="2.1.1 初始程序" POSITION="bottom_or_right" ID="ID_60111752" CREATED="1696103532243" MODIFIED="1696103585134"/>
 <node TEXT="2.1.2 数据类型、运算符和表达式" POSITION="bottom_or_right" ID="ID_1210744987" CREATED="1696099924291" MODIFIED="1696101094584"/>
 <node TEXT="2.1.3 常量和变量" POSITION="bottom_or_right" ID="ID_1402812939" CREATED="1696103608213" MODIFIED="1696103618671"/>
@@ -96,7 +96,7 @@
 <node TEXT="2.2.4 强制类型转换运算符" ID="ID_502174203" CREATED="1696103888358" MODIFIED="1696103899062"/>
 <node TEXT="2.2.5 自增和自减运算符" ID="ID_542088559" CREATED="1696104298878" MODIFIED="1696104309357"/>
 </node>
-<node TEXT="2.3 赋值运算符和逗号运算符" FOLDED="true" POSITION="bottom_or_right" ID="ID_263289645" CREATED="1696099995647" MODIFIED="1696104321125">
+<node TEXT="2.3 赋值运算符和逗号运算符" POSITION="bottom_or_right" ID="ID_263289645" CREATED="1696099995647" MODIFIED="1696104321125">
 <node TEXT="2.3.1 赋值运算符和赋值表达式" ID="ID_978343504" CREATED="1696104323134" MODIFIED="1696104331038"/>
 <node TEXT="2.3.2 逗号运算符和逗号表达式" ID="ID_184647426" CREATED="1696104341115" MODIFIED="1696104350661"/>
 </node>
