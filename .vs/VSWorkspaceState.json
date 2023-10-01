@@ -4,8 +4,12 @@
     "\\cpp_new",
     "\\cpp_new\\ch01",
     "\\cpp_new\\ch01\\HelloSFML",
-    "\\cpp_new\\ch01\\test"
+    "\\cpp_new\\ch01\\test",
+    "\\cpp_new\\ch02",
+    "\\cpp_new\\ch02\\2.1",
+    "\\cpp_new\\ch02\\2.1\\MySolution",
+    "\\cpp_new\\ch02\\2.1\\MySolution\\MyProject"
   ],
-  "SelectedNode": "\\cpp_new\\ch01\\HelloSFML\\HelloSFML.sln",
+  "SelectedNode": "\\cpp_new\\ch02\\2.1\\MySolution\\MyProject\\MyProject.cpp",
   "PreviewInSolutionExplorer": false
 }
