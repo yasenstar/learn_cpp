@@ -3,8 +3,8 @@
 <node TEXT="三维图形化C++" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1696182608423">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#f9f9f8">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_nord_template.mm"/>
+<hook NAME="MapStyle" background="#f9f9f8" zoom="1.1425234">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_nord_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -81,7 +81,8 @@
 </hook>
 <node TEXT="1 软件的介绍 Software Intro" POSITION="bottom_or_right" ID="ID_1708542608" CREATED="1696182662508" MODIFIED="1696182678196">
 <node TEXT="Dev-C++智能开发平台" ID="ID_394986844" CREATED="1696182682328" MODIFIED="1696182718278" LINK="http://www.razxhoi.com"/>
-<node TEXT="茶壶的绘制" ID="ID_475560569" CREATED="1696182734684" MODIFIED="1696182804137"/>
+<node TEXT="茶壶的绘制 （例1.1）" ID="ID_475560569" CREATED="1696182734684" MODIFIED="1696185940675"/>
+<node TEXT="绘图窗口的配置（题1.3）" ID="ID_1802119844" CREATED="1696194696577" MODIFIED="1696194714619"/>
 <node TEXT="实时绘图形" ID="ID_737200518" CREATED="1696182800185" MODIFIED="1696182816026"/>
 </node>
 <node TEXT="2 Hello World" POSITION="bottom_or_right" ID="ID_314038730" CREATED="1696182835930" MODIFIED="1696182841315"/>
