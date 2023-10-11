@@ -2,4 +2,4 @@
 
 ## 思维导图
 
-![C++ new mindmap](/image.png)
+![C++ new mindmap](/cpp_new/cpp_new.jpg)
