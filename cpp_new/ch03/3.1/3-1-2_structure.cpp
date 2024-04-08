@@ -3,10 +3,10 @@
 int main() {
 
     // 顺序结构
-    // int x;
-    // x = 3;
-    // printf("X is %d\n", x);
-    // printf("X is %d", x+2);
+    int x;
+    x = 3;
+    printf("X is %d\n", x);
+    printf("X is %d", x+2);
 
     // 选择结构
     // if (3 > 1)
