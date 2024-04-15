@@ -3,7 +3,7 @@
 <node TEXT="C++ with Code::Blocks" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1713126854119">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#fdf6e3" zoom="0.826">
+<hook NAME="MapStyle" background="#fdf6e3" zoom="1.074">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_solarized_template.mm"/>
 
 <map_styles>
@@ -83,7 +83,7 @@
 </map_styles>
 </hook>
 <hook URI="img/cpp-blocks-book-cover.png" SIZE="1.0" NAME="ExternalObject"/>
-<node TEXT="ch1 Getting Started with Code::Blocks" FOLDED="true" POSITION="bottom_or_right" ID="ID_1960287173" CREATED="1713126747124" MODIFIED="1713128290068"><richcontent TYPE="NOTE">
+<node TEXT="ch1 Getting Started with Code::Blocks" POSITION="bottom_or_right" ID="ID_1960287173" CREATED="1713126747124" MODIFIED="1713128290068"><richcontent TYPE="NOTE">
 <html>
   <head>
     
@@ -95,7 +95,7 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="1.1 Why Code::Blocks?" ID="ID_1571498794" CREATED="1713126871428" MODIFIED="1713126878021">
+<node TEXT="1.1 Why Code::Blocks?" FOLDED="true" ID="ID_1571498794" CREATED="1713126871428" MODIFIED="1713126878021">
 <node TEXT="A cross-platform IDE." ID="ID_1784791451" CREATED="1713128468468" MODIFIED="1713128481195"/>
 <node TEXT="Supports GCC compiler and GNU debugger." ID="ID_1503490743" CREATED="1713128481669" MODIFIED="1713128501059"/>
 <node TEXT="Supports numerous other compilers to various degrees." ID="ID_319025052" CREATED="1713128501574" MODIFIED="1713128522366"/>
