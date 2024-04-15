@@ -83,14 +83,45 @@
 </map_styles>
 </hook>
 <hook URI="img/cpp-blocks-book-cover.png" SIZE="1.0" NAME="ExternalObject"/>
-<node TEXT="ch1 Getting Started with Code::Blocks" POSITION="bottom_or_right" ID="ID_1960287173" CREATED="1713126747124" MODIFIED="1713126757307">
-<node TEXT="1.1 Why Code::Blocks?" ID="ID_1571498794" CREATED="1713126871428" MODIFIED="1713126878021"/>
-<node TEXT="1.2 Installing Code::Blocks on Windows" ID="ID_398456697" CREATED="1713126878179" MODIFIED="1713126913115"/>
+<node TEXT="ch1 Getting Started with Code::Blocks" FOLDED="true" POSITION="bottom_or_right" ID="ID_1960287173" CREATED="1713126747124" MODIFIED="1713128290068"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Getting Started with Code::Blocks, will help us to install Code::Blocks on Windows and Linux.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="1.1 Why Code::Blocks?" ID="ID_1571498794" CREATED="1713126871428" MODIFIED="1713126878021">
+<node TEXT="A cross-platform IDE." ID="ID_1784791451" CREATED="1713128468468" MODIFIED="1713128481195"/>
+<node TEXT="Supports GCC compiler and GNU debugger." ID="ID_1503490743" CREATED="1713128481669" MODIFIED="1713128501059"/>
+<node TEXT="Supports numerous other compilers to various degrees." ID="ID_319025052" CREATED="1713128501574" MODIFIED="1713128522366"/>
+<node TEXT="Scriptable and extendable, comes with several plugins." ID="ID_969636241" CREATED="1713128522837" MODIFIED="1713128547735"/>
+<node TEXT="Lightweight on resources." ID="ID_660801533" CREATED="1713128548310" MODIFIED="1713128559611"/>
+<node TEXT="Free and open source." ID="ID_1155094024" CREATED="1713128560084" MODIFIED="1713128565321"/>
+</node>
+<node TEXT="1.2 Installing Code::Blocks on Windows" FOLDED="true" ID="ID_398456697" CREATED="1713126878179" MODIFIED="1713126913115">
+<node TEXT="As of 2024/04: version 20.03" ID="ID_118478081" CREATED="1713128396632" MODIFIED="1713128407102"/>
+</node>
 <node TEXT="1.3 Installing Code::Blocks on Linux" ID="ID_964946806" CREATED="1713126887417" MODIFIED="1713126908021"/>
 <node TEXT="1.4 First Run" ID="ID_1366827403" CREATED="1713126914325" MODIFIED="1713126917739"/>
 <node TEXT="1.5 Introduction to Important Toolbars" ID="ID_898830091" CREATED="1713126918203" MODIFIED="1713126929509"/>
 </node>
-<node TEXT="ch2 App Development with Code::Blocks" POSITION="bottom_or_right" ID="ID_1410817587" CREATED="1713126758393" MODIFIED="1713126768593">
+<node TEXT="ch2 App Development with Code::Blocks" FOLDED="true" POSITION="bottom_or_right" ID="ID_1410817587" CREATED="1713126758393" MODIFIED="1713128301341"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      App Development with Code::Blocks, will help us to develop a simple app, to develop an app as a project, using external libraries with project, and concept of the workspace.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="2.1 Creating Your First App with Code::Blocks" ID="ID_967178813" CREATED="1713126934280" MODIFIED="1713126944040"/>
 <node TEXT="2.2 Project in Code::Blocks" ID="ID_69771411" CREATED="1713126944234" MODIFIED="1713126949917"/>
 <node TEXT="2.3 Project with Multiple Files" ID="ID_198892520" CREATED="1713126950093" MODIFIED="1713126957095"/>
@@ -98,23 +129,67 @@
 <node TEXT="2.5 Project with External Library" ID="ID_388528516" CREATED="1713126967965" MODIFIED="1713126977166"/>
 <node TEXT="2.6 Workspace" ID="ID_342185821" CREATED="1713126977326" MODIFIED="1713126980073"/>
 </node>
-<node TEXT="ch3 App Debugging with Code::Blocks" POSITION="bottom_or_right" ID="ID_644589899" CREATED="1713126771050" MODIFIED="1713126781148">
+<node TEXT="ch3 App Debugging with Code::Blocks" FOLDED="true" POSITION="bottom_or_right" ID="ID_644589899" CREATED="1713126771050" MODIFIED="1713128314748"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      App Debugging with Code::Blocks, explains the debugger related features offered by Code::Blocks and also to debug single and multiple apps.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="3.1 Introduction to Debugging in Code::Blocks" ID="ID_400682345" CREATED="1713126982797" MODIFIED="1713126997279"/>
 <node TEXT="3.2 First App Debugging" ID="ID_1524918517" CREATED="1713126997660" MODIFIED="1713127002406"/>
 <node TEXT="3.3 Multiple App Debugging" ID="ID_899426835" CREATED="1713127002556" MODIFIED="1713127009091"/>
 </node>
-<node TEXT="ch4 Windows App Develoopment with Code::Blocks" POSITION="bottom_or_right" ID="ID_1186027603" CREATED="1713126782580" MODIFIED="1713126792459">
+<node TEXT="ch4 Windows App Develoopment with Code::Blocks" FOLDED="true" POSITION="bottom_or_right" ID="ID_1186027603" CREATED="1713126782580" MODIFIED="1713128321119"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Windows App Development with Code::Blocks,describes how to develop apps using Code::Blocks for the Windows operating system. We will also learn to use wxWidgets and the way to use it for developing cross-platform apps.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="4.1 First Windows App" ID="ID_372136636" CREATED="1713127010637" MODIFIED="1713127016736"/>
 <node TEXT="4.2 Event Driven Windows App" ID="ID_372372837" CREATED="1713127016898" MODIFIED="1713127023582"/>
 <node TEXT="4.3 wxWidgets GUI Toolkit" ID="ID_1639374405" CREATED="1713127028860" MODIFIED="1713127036273"/>
 <node TEXT="4.4 Rapid App Development with wxSmith" ID="ID_726961659" CREATED="1713127036453" MODIFIED="1713127048851"/>
 </node>
-<node TEXT="ch5 Programming Assignment" POSITION="bottom_or_right" ID="ID_1335082825" CREATED="1713126795760" MODIFIED="1713126804413">
+<node TEXT="ch5 Programming Assignment" FOLDED="true" POSITION="bottom_or_right" ID="ID_1335082825" CREATED="1713126795760" MODIFIED="1713128330005"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Programming Assignment, explains how to develop an app from scratch using Code::Blocks. We will look at a completed app, dissect it, and then develop it using Code::Blocks.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="5.1 Developing MyPaint - an Image Viewer" ID="ID_1701338450" CREATED="1713127051300" MODIFIED="1713127062976"/>
 <node TEXT="5.2 Anatomy of Exercise App" ID="ID_1654830659" CREATED="1713127063143" MODIFIED="1713127069256"/>
 <node TEXT="5.3 Solution of Exercise Problem" ID="ID_71853217" CREATED="1713127069377" MODIFIED="1713127076371"/>
 </node>
-<node TEXT="Appendix" POSITION="bottom_or_right" ID="ID_1384720939" CREATED="1713127081354" MODIFIED="1713127091890">
+<node TEXT="Appendix" FOLDED="true" POSITION="bottom_or_right" ID="ID_1384720939" CREATED="1713127081354" MODIFIED="1713128332401"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Appendix, discusses some advanced features of Code::Blocks.We will also learn about documentation generation, exporting source file, and so on in this chapter.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="A.1 Scripting Code::Blocks" ID="ID_641299625" CREATED="1713127091892" MODIFIED="1713127101673"/>
 <node TEXT="A.2 Documentation Generation" ID="ID_655999581" CREATED="1713127101861" MODIFIED="1713127107945"/>
 <node TEXT="A.3 Management of Code Snippets" ID="ID_842461732" CREATED="1713127108121" MODIFIED="1713127115307"/>
