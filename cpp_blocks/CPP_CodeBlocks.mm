@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="C++ with Code::Blocks" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1713126854119">
+<node TEXT="C++ with Code::Blocks" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1713148176282" LINK="https://www.codeblocks.org/">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
 <hook NAME="MapStyle" background="#fdf6e3" zoom="1.074">
@@ -83,7 +83,7 @@
 </map_styles>
 </hook>
 <hook URI="img/cpp-blocks-book-cover.png" SIZE="1.0" NAME="ExternalObject"/>
-<node TEXT="ch1 Getting Started with Code::Blocks" POSITION="bottom_or_right" ID="ID_1960287173" CREATED="1713126747124" MODIFIED="1713128290068"><richcontent TYPE="NOTE">
+<node TEXT="ch1 Getting Started with Code::Blocks" FOLDED="true" POSITION="bottom_or_right" ID="ID_1960287173" CREATED="1713126747124" MODIFIED="1713128290068"><richcontent TYPE="NOTE">
 <html>
   <head>
     
@@ -103,14 +103,14 @@
 <node TEXT="Lightweight on resources." ID="ID_660801533" CREATED="1713128548310" MODIFIED="1713128559611"/>
 <node TEXT="Free and open source." ID="ID_1155094024" CREATED="1713128560084" MODIFIED="1713128565321"/>
 </node>
-<node TEXT="1.2 Installing Code::Blocks on Windows" FOLDED="true" ID="ID_398456697" CREATED="1713126878179" MODIFIED="1713126913115">
-<node TEXT="As of 2024/04: version 20.03" ID="ID_118478081" CREATED="1713128396632" MODIFIED="1713128407102"/>
+<node TEXT="1.2 Installing Code::Blocks on Windows" ID="ID_398456697" CREATED="1713126878179" MODIFIED="1713126913115">
+<node TEXT="As of 2024/04: version 20.03" ID="ID_118478081" CREATED="1713128396632" MODIFIED="1713148197531" LINK="https://www.codeblocks.org/downloads/"/>
 </node>
 <node TEXT="1.3 Installing Code::Blocks on Linux" ID="ID_964946806" CREATED="1713126887417" MODIFIED="1713126908021"/>
 <node TEXT="1.4 First Run" ID="ID_1366827403" CREATED="1713126914325" MODIFIED="1713126917739"/>
 <node TEXT="1.5 Introduction to Important Toolbars" ID="ID_898830091" CREATED="1713126918203" MODIFIED="1713126929509"/>
 </node>
-<node TEXT="ch2 App Development with Code::Blocks" FOLDED="true" POSITION="bottom_or_right" ID="ID_1410817587" CREATED="1713126758393" MODIFIED="1713128301341"><richcontent TYPE="NOTE">
+<node TEXT="ch2 App Development with Code::Blocks" POSITION="bottom_or_right" ID="ID_1410817587" CREATED="1713126758393" MODIFIED="1713128301341"><richcontent TYPE="NOTE">
 <html>
   <head>
     
