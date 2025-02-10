@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\GitHub\\learn_cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\learn_cpp\\cpp_new\\ch01\\HelloSFML\\HelloSFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_new\\ch01\\HelloSFML\\HelloSFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\learn_cpp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\learn_cpp\\cpp_new\\ch01\\test\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_new\\ch01\\test\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\learn_cpp\\cpp_new\\Part1-Overview\\ch01\\HelloSFML\\HelloSFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_new\\Part1-Overview\\ch01\\HelloSFML\\HelloSFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\learn_cpp\\cpp_new\\Part1-Overview\\ch01\\test\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_new\\Part1-Overview\\ch01\\test\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,11 +27,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\GitHub\\learn_cpp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\GitHub\\learn_cpp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-10T07:49:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HelloSFML.cpp",
-              "DocumentMoniker": "D:\\GitHub\\learn_cpp\\cpp_new\\ch01\\HelloSFML\\HelloSFML.cpp",
-              "RelativeDocumentMoniker": "cpp_new\\ch01\\HelloSFML\\HelloSFML.cpp",
-              "ToolTip": "D:\\GitHub\\learn_cpp\\cpp_new\\ch01\\HelloSFML\\HelloSFML.cpp",
-              "RelativeToolTip": "cpp_new\\ch01\\HelloSFML\\HelloSFML.cpp",
+              "DocumentMoniker": "D:\\GitHub\\learn_cpp\\cpp_new\\Part1-Overview\\ch01\\HelloSFML\\HelloSFML.cpp",
+              "RelativeDocumentMoniker": "cpp_new\\Part1-Overview\\ch01\\HelloSFML\\HelloSFML.cpp",
+              "ToolTip": "D:\\GitHub\\learn_cpp\\cpp_new\\Part1-Overview\\ch01\\HelloSFML\\HelloSFML.cpp",
+              "RelativeToolTip": "cpp_new\\Part1-Overview\\ch01\\HelloSFML\\HelloSFML.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-10T07:35:55.465Z",
@@ -35,12 +52,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "helloworld.cpp",
-              "DocumentMoniker": "D:\\GitHub\\learn_cpp\\cpp_new\\ch01\\test\\helloworld.cpp",
-              "RelativeDocumentMoniker": "cpp_new\\ch01\\test\\helloworld.cpp",
-              "ToolTip": "D:\\GitHub\\learn_cpp\\cpp_new\\ch01\\test\\helloworld.cpp",
-              "RelativeToolTip": "cpp_new\\ch01\\test\\helloworld.cpp",
+              "DocumentMoniker": "D:\\GitHub\\learn_cpp\\cpp_new\\Part1-Overview\\ch01\\test\\helloworld.cpp",
+              "RelativeDocumentMoniker": "cpp_new\\Part1-Overview\\ch01\\test\\helloworld.cpp",
+              "ToolTip": "D:\\GitHub\\learn_cpp\\cpp_new\\Part1-Overview\\ch01\\test\\helloworld.cpp",
+              "RelativeToolTip": "cpp_new\\Part1-Overview\\ch01\\test\\helloworld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-10T05:10:59.689Z",
