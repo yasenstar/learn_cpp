@@ -1,9 +1,10 @@
-<map version="freeplane 1.11.5">
+<map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Learn C++&#xa;《C++ 新经典》" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1712528881760" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7" zoom="1.167">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false"/>
+<hook NAME="MapStyle" background="#fbf1c7ff" zoom="1.167">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" show_tags="UNDER_NODES"/>
+    <tags category_separator="::"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -17,6 +18,9 @@
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.tags">
+<font SIZE="10"/>
+</stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.attributes">
 <font SIZE="9"/>
 </stylenode>
@@ -76,12 +80,12 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="第一部分 C/C++概述" POSITION="bottom_or_right" ID="ID_1586641191" CREATED="1697059273426" MODIFIED="1712683467480" VGAP_QUANTITY="3 pt">
+<node TEXT="第一部分 C/C++概述" FOLDED="true" POSITION="bottom_or_right" ID="ID_1586641191" CREATED="1697059273426" MODIFIED="1712683467480" VGAP_QUANTITY="3 pt">
 <node TEXT="1 C/C++语言" ID="ID_308802542" CREATED="1697059426298" MODIFIED="1712683467479"/>
 </node>
 <node TEXT="第二部分 C" POSITION="bottom_or_right" ID="ID_927283953" CREATED="1696099910757" MODIFIED="1697059294958">
 <node TEXT="2. 数据类型、运算符和表达式" FOLDED="true" POSITION="bottom_or_right" ID="ID_1269894434" CREATED="1696104409292" MODIFIED="1696104417623">
-<node TEXT="2.1 常量、变量、整型、实型和字符型&#xa;(video 002)" POSITION="bottom_or_right" ID="ID_40937223" CREATED="1696099950317" MODIFIED="1696104737168">
+<node TEXT="2.1 常量、变量、整型、实型和字符型&#xa;(video 002)" FOLDED="true" POSITION="bottom_or_right" ID="ID_40937223" CREATED="1696099950317" MODIFIED="1696104737168">
 <node TEXT="2.1.1 初始程序" POSITION="bottom_or_right" ID="ID_60111752" CREATED="1696103532243" MODIFIED="1696103585134"/>
 <node TEXT="2.1.2 数据类型、运算符和表达式" POSITION="bottom_or_right" ID="ID_1210744987" CREATED="1696099924291" MODIFIED="1696101094584"/>
 <node TEXT="2.1.3 常量和变量" POSITION="bottom_or_right" ID="ID_1402812939" CREATED="1696103608213" MODIFIED="1696103618671"/>
@@ -166,8 +170,7 @@
       用关系运算符将两个表达式连接起来的式子就叫关系表达式。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="4.1.2 逻辑运算符和逻辑表达式" ID="ID_462648536" CREATED="1712528594541" MODIFIED="1712528602296">
@@ -194,7 +197,7 @@
 <node TEXT="5.2 for语句精解" ID="ID_9833716" CREATED="1712536927008" MODIFIED="1712536934343"/>
 <node TEXT="5.3 循环的嵌套、比较与break语句、continue语句" ID="ID_302812931" CREATED="1712536934598" MODIFIED="1712536950513"/>
 </node>
-<node TEXT="6 数组" FOLDED="true" ID="ID_382877522" CREATED="1697059338057" MODIFIED="1697059340970">
+<node TEXT="6 数组" ID="ID_382877522" CREATED="1697059338057" MODIFIED="1697059340970">
 <node TEXT="6.1 一维数组" FOLDED="true" ID="ID_344168128" CREATED="1712536954849" MODIFIED="1712536980536">
 <node TEXT="6.1.1 一维数组的一般形式" ID="ID_1694640441" CREATED="1712697530860" MODIFIED="1712697558817"/>
 <node TEXT="6.1.2 一维数组元素的引用" ID="ID_1194121487" CREATED="1712697650071" MODIFIED="1712697659376"/>
@@ -207,8 +210,16 @@
 </node>
 <node TEXT="6.3 字符数组" ID="ID_1978916410" CREATED="1712536963207" MODIFIED="1712536973602">
 <node TEXT="6.3.1 字符数组的定义" ID="ID_1919675047" CREATED="1712697702713" MODIFIED="1712697716249"/>
-<node TEXT="6.3.2 字符数组的初始化" ID="ID_1514323033" CREATED="1712697731456" MODIFIED="1712697737307"/>
-<node TEXT="6.3.3 字符串和字符串结束标记" ID="ID_998627954" CREATED="1712697740999" MODIFIED="1712697752296"/>
+<node TEXT="6.3.2 字符数组的初始化" ID="ID_1514323033" CREATED="1712697731456" MODIFIED="1712697737307">
+<node TEXT="(1) 逐个字符赋给数组中的元素" ID="ID_889932403" CREATED="1739252128896" MODIFIED="1739252149357"/>
+<node TEXT="(2) 若提供的初值个数和预定的数组长度相同，定义时可以省略数组长度" ID="ID_860594092" CREATED="1739252149520" MODIFIED="1739252204942"/>
+<node TEXT="(3) 若初值个数大于数组个数，则做语法错误处理" ID="ID_1362008765" CREATED="1739252189982" MODIFIED="1739252240297"/>
+<node TEXT="(4) 若初值个数小于数组长度，则只将这些字符赋给数组中前面的元素，其余的元素值会给&apos;\0&apos;，也可能无法确定" ID="ID_886782268" CREATED="1739252240437" MODIFIED="1739252309642"/>
+<node TEXT="(5) 用字符串常量初始化字符数组" ID="ID_262473682" CREATED="1739253366482" MODIFIED="1739253383279"/>
+</node>
+<node TEXT="6.3.3 字符串和字符串结束标记" ID="ID_998627954" CREATED="1712697740999" MODIFIED="1739253387278">
+<arrowlink DESTINATION="ID_262473682"/>
+</node>
 <node TEXT="6.3.4 字符数组的输入/输出" ID="ID_964208856" CREATED="1712697771086" MODIFIED="1712697780172"/>
 <node TEXT="6.3.5 字符串处理函数" ID="ID_861644734" CREATED="1712697786662" MODIFIED="1712697793329"/>
 </node>
@@ -335,7 +346,7 @@
 </node>
 </node>
 </node>
-<node TEXT="第三部分 C++" POSITION="bottom_or_right" ID="ID_1603334182" CREATED="1696099917076" MODIFIED="1697059303547">
+<node TEXT="第三部分 C++" FOLDED="true" POSITION="bottom_or_right" ID="ID_1603334182" CREATED="1696099917076" MODIFIED="1697059303547">
 <node TEXT="13 C++基本语言" FOLDED="true" ID="ID_1640480575" CREATED="1712537502371" MODIFIED="1712537512569">
 <node TEXT="13.1 语言特性、工程构成与可移植性" ID="ID_1996146468" CREATED="1712873197830" MODIFIED="1712878074919">
 <node TEXT="13.1.1 语言特性：过程式、对象式程序设计" ID="ID_171717855" CREATED="1712878076080" MODIFIED="1712878093102"/>
@@ -397,7 +408,7 @@
 <node TEXT="13.10.3 总结" ID="ID_1794732772" CREATED="1712881039081" MODIFIED="1712881043118"/>
 </node>
 </node>
-<node TEXT="14 类" ID="ID_1293109039" CREATED="1712537517000" MODIFIED="1712537519259">
+<node TEXT="14 类" FOLDED="true" ID="ID_1293109039" CREATED="1712537517000" MODIFIED="1712537519259">
 <node TEXT="14.1 成员函数、对象复制与私有成员" ID="ID_44971302" CREATED="1712881058233" MODIFIED="1712881073039">
 <node TEXT="14.1.1 总述" ID="ID_1120865845" CREATED="1712881073434" MODIFIED="1712881077008"/>
 <node TEXT="14.1.2 类基础" ID="ID_1903091249" CREATED="1712881081434" MODIFIED="1712881085513"/>
