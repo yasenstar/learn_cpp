@@ -10,7 +10,7 @@ Microsoft provides nice [documentation and guide](https://code.visualstudio.com/
 
 For Windows OS, two compilers - MSVC or MinGW - can be chosen.
 
-I tried MinGW, the guide is good and clear, but since my computer is behind company's firewall, when running `pacman` command below:
+I tried MinGW (https://www.msys2.org/), the guide is good and clear, but since my computer is behind company's firewall, when running `pacman` command below:
 
 ```
 $ pacman -S mingw-w64-ucrt-x86_64-gcc
@@ -30,6 +30,8 @@ Total Installed Size:   517.33 MiB
 error: failed retrieving file 'mingw-w65-ucrt-x86_64-binutils-2.43.1-1-any.pkg.tar.zst' from mirror.msys2.org : Failed to connect to mirror.msys2.org port 443 after 1522 ms: Could not connect to server
 ...
 ```
+
+![pacman error screen](img/pacman-error-20250210.png)
 
 Checked with support team, it is the firewall policy that blocks this traffic, thus I need to find the way to install C/C++ compiler without direct connecting the traffic via firewall.
 
