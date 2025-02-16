@@ -3,7 +3,7 @@
 <node TEXT="Learn C++&#xa;《C++ 新经典》" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1712528881760" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <hook NAME="MapStyle" background="#fbf1c7ff" zoom="1.167">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" show_tags="UNDER_NODES"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -203,21 +203,21 @@
 <node TEXT="6.1.2 一维数组元素的引用" ID="ID_1194121487" CREATED="1712697650071" MODIFIED="1712697659376"/>
 <node TEXT="6.1.3 一维数组的初始化" ID="ID_829416879" CREATED="1712697663542" MODIFIED="1712697668952"/>
 </node>
-<node TEXT="6.2 二维数组" ID="ID_1801565822" CREATED="1712536960215" MODIFIED="1712536977639">
+<node TEXT="6.2 二维数组" FOLDED="true" ID="ID_1801565822" CREATED="1712536960215" MODIFIED="1712536977639">
 <node TEXT="6.2.1 二维数组的一般形式" POSITION="bottom_or_right" ID="ID_1274051513" CREATED="1712697530860" MODIFIED="1712697719673"/>
 <node TEXT="6.2.2 二维数组元素的引用" POSITION="bottom_or_right" ID="ID_931417734" CREATED="1712697650071" MODIFIED="1712697723137"/>
 <node TEXT="6.2.3 二维数组的初始化" POSITION="bottom_or_right" ID="ID_204704371" CREATED="1712697663542" MODIFIED="1712697726257"/>
 </node>
 <node TEXT="6.3 字符数组" ID="ID_1978916410" CREATED="1712536963207" MODIFIED="1712536973602">
 <node TEXT="6.3.1 字符数组的定义" ID="ID_1919675047" CREATED="1712697702713" MODIFIED="1712697716249"/>
-<node TEXT="6.3.2 字符数组的初始化" ID="ID_1514323033" CREATED="1712697731456" MODIFIED="1712697737307">
+<node TEXT="6.3.2 字符数组的初始化" FOLDED="true" ID="ID_1514323033" CREATED="1712697731456" MODIFIED="1712697737307">
 <node TEXT="(1) 逐个字符赋给数组中的元素" ID="ID_889932403" CREATED="1739252128896" MODIFIED="1739252149357"/>
 <node TEXT="(2) 若提供的初值个数和预定的数组长度相同，定义时可以省略数组长度" ID="ID_860594092" CREATED="1739252149520" MODIFIED="1739252204942"/>
 <node TEXT="(3) 若初值个数大于数组个数，则做语法错误处理" ID="ID_1362008765" CREATED="1739252189982" MODIFIED="1739252240297"/>
 <node TEXT="(4) 若初值个数小于数组长度，则只将这些字符赋给数组中前面的元素，其余的元素值会给&apos;\0&apos;，也可能无法确定" ID="ID_886782268" CREATED="1739252240437" MODIFIED="1739252309642"/>
 <node TEXT="(5) 用字符串常量初始化字符数组" ID="ID_262473682" CREATED="1739253366482" MODIFIED="1739253383279"/>
 </node>
-<node TEXT="6.3.3 字符串和字符串结束标记" FOLDED="true" ID="ID_998627954" CREATED="1712697740999" MODIFIED="1739253387278">
+<node TEXT="6.3.3 字符串和字符串结束标记" ID="ID_998627954" CREATED="1712697740999" MODIFIED="1739253387278">
 <arrowlink DESTINATION="ID_262473682"/>
 <node TEXT="注：只要用字符串来初始化字符数组，系统就会自动在字符串末尾加一个&apos;\0&apos;" ID="ID_796899986" CREATED="1739254079889" MODIFIED="1739254087387"/>
 </node>
