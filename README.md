@@ -1,4 +1,4 @@
-# Learn C & C++ with Practice
+# Learn C++ (and C) with Practice
 
 ![c/c++ logo](img/c-cpp-logo.jpg)
 
