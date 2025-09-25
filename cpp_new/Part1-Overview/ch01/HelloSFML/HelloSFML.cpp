@@ -6,7 +6,7 @@
 int main()
 {
     //std::cout << "Hello World! 世界\n";
-    printf("很高兴");
+    printf("你好，C++，我很高兴");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
