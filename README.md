@@ -2,7 +2,9 @@
 
 ![c/c++ logo](img/c-cpp-logo.jpg)
 
-## C++ 新经典, language: Chinese
+## C++ 新经典, language: 中文 Chinese
+
+![cpp-new-cover](cpp_new/img/cpp-new-book-cover.png)
 
 - [学习视频列表-YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeXyH1g8m5fvIEPYx4hANmaR)
 - [视频列表-B站 bilibili](https://space.bilibili.com/158390142/lists/2469667?type=season)
