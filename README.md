@@ -4,7 +4,7 @@
 
 ## C++ 新经典, language: 中文 Chinese
 
-|||
+|book|content structure|
 | --- | --- |
 | ![cpp-new-cover](cpp_new/img/cpp-new-book-cover.png) | ![content](cpp_new/img/cpp_new_structure.jpg)
 
