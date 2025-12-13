@@ -13,6 +13,6 @@ int main() {
     printHello();
     printHello();
     printNew();
-    printMath();
+    printMath(5,6);
     return 0;
 }
