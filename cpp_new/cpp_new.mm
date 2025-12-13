@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Learn C++&#xa;《C++ 新经典》" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1712528881760" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7ff" zoom="0.9090909">
+<hook NAME="MapStyle" background="#fbf1c7ff" zoom="0.82644624">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -236,7 +236,7 @@
 </node>
 </node>
 <node TEXT="7 函数" ID="ID_1199671332" CREATED="1697059355001" MODIFIED="1697059357850">
-<node TEXT="7.1 函数的基本概念和定义" ID="ID_1197626518" CREATED="1712536983888" MODIFIED="1712536992050">
+<node TEXT="7.1 函数的基本概念和定义" FOLDED="true" ID="ID_1197626518" CREATED="1712536983888" MODIFIED="1712536992050">
 <node TEXT="7.1.1 函数的基本概念" ID="ID_1318569469" CREATED="1712871881408" MODIFIED="1712871890336"/>
 <node TEXT="7.1.2 函数的定义和返回值" ID="ID_1682141043" CREATED="1712871896653" MODIFIED="1712871903312"/>
 </node>
@@ -256,7 +256,7 @@
 <node TEXT="7.4.2 数组名作为函数实参" ID="ID_1896746279" CREATED="1712872082615" MODIFIED="1712872092859"/>
 <node TEXT="7.4.3 用多维数组作为函数实参" ID="ID_1583282659" CREATED="1712872097957" MODIFIED="1712872111084"/>
 </node>
-<node TEXT="7.5 局部变量和全局变量" FOLDED="true" ID="ID_1136467682" CREATED="1712537040801" MODIFIED="1712537048550">
+<node TEXT="7.5 局部变量和全局变量" ID="ID_1136467682" CREATED="1712537040801" MODIFIED="1712537048550">
 <node TEXT="7.5.1 局部变量" ID="ID_1919205757" CREATED="1712872115033" MODIFIED="1712872121873"/>
 <node TEXT="7.5.2 全局变量" ID="ID_753397984" CREATED="1712872136778" MODIFIED="1712872143045"/>
 </node>
