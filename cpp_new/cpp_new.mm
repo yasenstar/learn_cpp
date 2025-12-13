@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Learn C++&#xa;《C++ 新经典》" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1712528881760" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7ff" zoom="1.167">
+<hook NAME="MapStyle" background="#fbf1c7ff" zoom="0.9090909">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -197,13 +197,13 @@
 <node TEXT="5.2 for语句精解" ID="ID_9833716" CREATED="1712536927008" MODIFIED="1712536934343"/>
 <node TEXT="5.3 循环的嵌套、比较与break语句、continue语句" ID="ID_302812931" CREATED="1712536934598" MODIFIED="1712536950513"/>
 </node>
-<node TEXT="6 数组" ID="ID_382877522" CREATED="1697059338057" MODIFIED="1697059340970">
-<node TEXT="6.1 一维数组" FOLDED="true" ID="ID_344168128" CREATED="1712536954849" MODIFIED="1712536980536">
+<node TEXT="6 数组" FOLDED="true" ID="ID_382877522" CREATED="1697059338057" MODIFIED="1697059340970">
+<node TEXT="6.1 一维数组" ID="ID_344168128" CREATED="1712536954849" MODIFIED="1712536980536">
 <node TEXT="6.1.1 一维数组的一般形式" ID="ID_1694640441" CREATED="1712697530860" MODIFIED="1712697558817"/>
 <node TEXT="6.1.2 一维数组元素的引用" ID="ID_1194121487" CREATED="1712697650071" MODIFIED="1712697659376"/>
 <node TEXT="6.1.3 一维数组的初始化" ID="ID_829416879" CREATED="1712697663542" MODIFIED="1712697668952"/>
 </node>
-<node TEXT="6.2 二维数组" FOLDED="true" ID="ID_1801565822" CREATED="1712536960215" MODIFIED="1712536977639">
+<node TEXT="6.2 二维数组" ID="ID_1801565822" CREATED="1712536960215" MODIFIED="1712536977639">
 <node TEXT="6.2.1 二维数组的一般形式" POSITION="bottom_or_right" ID="ID_1274051513" CREATED="1712697530860" MODIFIED="1712697719673"/>
 <node TEXT="6.2.2 二维数组元素的引用" POSITION="bottom_or_right" ID="ID_931417734" CREATED="1712697650071" MODIFIED="1712697723137"/>
 <node TEXT="6.2.3 二维数组的初始化" POSITION="bottom_or_right" ID="ID_204704371" CREATED="1712697663542" MODIFIED="1712697726257"/>
@@ -226,12 +226,12 @@
 <node TEXT="字符输出：printf(&quot;%c\n&quot;, c);" ID="ID_1534854777" CREATED="1739254351575" MODIFIED="1739254367625"/>
 <node TEXT="字符串输入：scanf(&quot;%s&quot;, c);" ID="ID_710317330" CREATED="1739254368278" MODIFIED="1739254385625"/>
 </node>
-<node TEXT="6.3.5 字符串处理函数" ID="ID_861644734" CREATED="1712697786662" MODIFIED="1712697793329">
+<node TEXT="6.3.5 字符串处理函数" FOLDED="true" ID="ID_861644734" CREATED="1712697786662" MODIFIED="1712697793329">
 <node TEXT="puts：将一个字符串输出到屏幕" ID="ID_1763009429" CREATED="1739254994154" MODIFIED="1739255021545"/>
 <node TEXT="strcat：连接两个字符数组中的字符串" ID="ID_1845567721" CREATED="1739255068189" MODIFIED="1739255089442"/>
 <node TEXT="strcpy：将字符串2复制到字符数组1中" ID="ID_513163042" CREATED="1739255350556" MODIFIED="1739255382500"/>
 <node TEXT="strcmp：比较字符串1和字符串2的内容，相等返回0" ID="ID_15308195" CREATED="1739255639466" MODIFIED="1739255664373"/>
-<node TEXT="strlen：得到字符数组" ID="ID_57200226" CREATED="1765519210901" MODIFIED="1765519258638"/>
+<node TEXT="strlen：得到字符数组的长度" ID="ID_57200226" CREATED="1765519210901" MODIFIED="1765529574982"/>
 </node>
 </node>
 </node>
