@@ -12,6 +12,7 @@
 
 - [学习视频列表-YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeXyH1g8m5fvIEPYx4hANmaR)
 - [视频列表-B站 bilibili](https://space.bilibili.com/158390142/lists/2469667?type=season)
+- [视频列表 - 抖音](https://www.douyin.com/collection/7583734438882707496/1?previous_page=general_search)
 
 ## C++ Application Development with Code::Blocks, language: English
 
