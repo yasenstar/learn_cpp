@@ -9,7 +9,7 @@
 [![license](https://img.shields.io/pypi/l/spyder.svg)](./LICENSE.txt)
 ![GitHub Repo stars](https://img.shields.io/github/stars/yasenstar/learn_cpp)
 ![GitHub forks](https://img.shields.io/github/forks/yasenstar/learn_cpp)
-[![pages-build-deployment](https://github.com/yasenstar/learn_cpp/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yasenstar/learn_cpp/actions/workflows/pages/pages-build-deployment)
+![GitHub language count](https://img.shields.io/github/languages/count/yasenstar/learn_cpp)[![pages-build-deployment](https://github.com/yasenstar/learn_cpp/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yasenstar/learn_cpp/actions/workflows/pages/pages-build-deployment)
 
 ## C++ 新经典, language: 中文 Chinese
 
