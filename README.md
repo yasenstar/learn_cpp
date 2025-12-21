@@ -2,6 +2,15 @@
 
 ![c/c++ logo](img/c-cpp-logo.jpg)
 
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/XiaoqiZhao)](https://x.com/XiaoqiZhao)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTshmTJGpJunOz23vCEhzWg)](https://www.youtube.com/@yasenzhao)
+
+
+[![license](https://img.shields.io/pypi/l/spyder.svg)](./LICENSE.txt)
+![GitHub Repo stars](https://img.shields.io/github/stars/yasenstar/learn_cpp)
+![GitHub forks](https://img.shields.io/github/forks/yasenstar/learn_cpp)
+[![pages-build-deployment](https://github.com/yasenstar/learn_cpp/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yasenstar/learn_cpp/actions/workflows/pages/pages-build-deployment)
+
 ## C++ 新经典, language: 中文 Chinese
 
 |book|content structure|
