@@ -4,7 +4,7 @@
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/XiaoqiZhao)](https://x.com/XiaoqiZhao)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTshmTJGpJunOz23vCEhzWg)](https://www.youtube.com/@yasenzhao)
-[![Static Badge](https://img.shields.io/My_LinkedIn/xiaoqi-zhao)](https://www.linkedin.com/in/xiaoqi-zhao)
+[![Static Badge](https://img.shields.io/badge/My_LinkedIn--XiaoqiZhao-blue)](https://www.linkedin.com/in/xiaoqi-zhao)
 
 
 
