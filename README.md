@@ -6,8 +6,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTshmTJGpJunOz23vCEhzWg)](https://www.youtube.com/@yasenzhao)
 [![Static Badge](https://img.shields.io/badge/My_LinkedIn--XiaoqiZhao-blue)](https://www.linkedin.com/in/xiaoqi-zhao)
 
-
-
 [![license](https://img.shields.io/pypi/l/spyder.svg)](./LICENSE.txt)
 ![GitHub Repo stars](https://img.shields.io/github/stars/yasenstar/learn_cpp)
 ![GitHub forks](https://img.shields.io/github/forks/yasenstar/learn_cpp)
