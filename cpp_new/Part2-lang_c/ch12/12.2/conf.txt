@@ -1,0 +1,7 @@
+https://play.google.com/store/apps/details?id=com.xx.yy
+0|6
+2|http://muf.xx.com/update/v30000_2.zip|2c4c29840ba8539baa3c4cf41ea4382a|7.19M
+3|http://muf.xx.com/update/v30000_3.zip|6253e023b2f1050fbca18f4a6c9b0156|4.58M
+4|http://muf.xx.com/update/v30000_4.zip|224kffa34dsd454sdfdfdf94343fdfd3|0.04M
+5|http://muf.xx.com/update/v30000_5.zip|877fdfa8f78dd8hf77h8f6df8dsf6sf3|7.77M
+6|http://muf.xx.com/update/v30000_6.zip|679a69b6fd98a696g9a4r49tr69dg6k8|3.73M
