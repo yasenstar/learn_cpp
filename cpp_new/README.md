@@ -4,6 +4,7 @@
   - [思维导图](#思维导图)
   - [内容](#内容)
   - [演示视频](#演示视频)
+  - [视频配套电子书](#视频配套电子书)
 
 ## 思维导图
 
@@ -23,6 +24,10 @@ Please install FreePlane to open the mindmap file.
 - [视频列表-B站 bilibili](https://space.bilibili.com/158390142/lists/2469667?type=season)
 - [视频列表 - 抖音](https://www.douyin.com/collection/7583734438882707496/1?previous_page=general_search)
 
+## 视频配套电子书
+
+- [电子书](./ebook/README.md)
+
 ---
 
-更新日期：12/19/2025, 10:49:20 AM
+更新日期：2026-04-11
